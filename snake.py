@@ -21,7 +21,7 @@ def reset_game():
     global direction
     
     snake = [[0, 0]]
-    snake_length = 2
+    snake_length = 1
     current_fruit_location = [2,2]
     direction = "px"
 
